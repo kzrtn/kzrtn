@@ -1,5 +1,7 @@
 ## Hi there! I'm Jolene ╰(*°▽°*)╯
 I'm a computer science student. Currently focused on full-stack development. My other interests include mechanical keyboards, embedded systems, radio and rhythm games.
+
+![image](./image234.jpg)
 ### Links
 * Personal website: [https://kzrtn.github.io/](https://kzrtn.github.io/)
 * Twitter: [https://x.com/KZRTEN](https://x.com/KZRTEN)
