@@ -1,16 +1,12 @@
-## Hi there 👋
+## Hi there! I'm Jolene ╰(*°▽°*)╯
+I'm a computer science student. Currently focused on full-stack development. My other interests include mechanical keyboards, embedded systems, radio and rhythm games.
+### Links
+* Personal website: [https://kzrtn.github.io/](https://kzrtn.github.io/)
+* Twitter: [https://x.com/KZRTEN](https://x.com/KZRTEN)
 
-<!--
-**kzrtn/kzrtn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack & Tools
+* **Frontend:** React, Bootstrap CSS, literal raw HTML :)
+* **Backend:** Express
+* **Databases:** MongoDB, SQLite
+* **Tools:** UiPath (RPAs), VS Code (IDE)
+* **Languages:** Javascript, SQL, Python, C
