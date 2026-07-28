@@ -3,7 +3,7 @@ I'm a computer science student. Currently focused on full-stack development. My 
 
 ![image](./image234.jpg)
 ### Links
-* Personal website: [https://kzrtn.github.io/](https://kzrtn.github.io/)
+* Dev blog: [https://kzrtn.github.io/](https://kzrtn.github.io/)
 * Twitter: [https://x.com/KZRTEN](https://x.com/KZRTEN)
 
 ### Tech Stack & Tools
